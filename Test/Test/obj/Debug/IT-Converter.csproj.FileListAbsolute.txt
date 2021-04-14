@@ -1,0 +1,15 @@
+D:\programme VS\Test\Test\bin\Debug\Test.exe.config
+D:\programme VS\Test\Test\bin\Debug\Test.exe
+D:\programme VS\Test\Test\bin\Debug\Test.pdb
+D:\programme VS\Test\Test\obj\Debug\MainWindow.g.cs
+D:\programme VS\Test\Test\obj\Debug\App.g.cs
+D:\programme VS\Test\Test\obj\Debug\Test_MarkupCompile.cache
+D:\programme VS\Test\Test\obj\Debug\Test_MarkupCompile.lref
+D:\programme VS\Test\Test\obj\Debug\MainWindow.baml
+D:\programme VS\Test\Test\obj\Debug\Test.g.resources
+D:\programme VS\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\programme VS\Test\Test\obj\Debug\IT-Converter.csproj.GenerateResource.cache
+D:\programme VS\Test\Test\obj\Debug\IT-Converter.csproj.CoreCompileInputs.cache
+D:\programme VS\Test\Test\obj\Debug\Test.exe
+D:\programme VS\Test\Test\obj\Debug\Test.pdb
+D:\programme VS\Test\Test\obj\Debug\IT-Converter.csprojAssemblyReference.cache
